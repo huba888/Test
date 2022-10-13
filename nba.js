@@ -1,2 +1,1 @@
-console.log("nba")
-console.log('se')
+console.log("huba")
